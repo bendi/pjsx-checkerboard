@@ -1,0 +1,28 @@
+{
+    "author": "marek@bedkowski.pl",
+    "dependencies": {},
+    "keywords": [],
+    "name": "checkerboard",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Checkerboard",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "716a9882-4485-44c5-a7e2-3f677c05b79f",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
